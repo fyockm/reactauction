@@ -1,0 +1,30 @@
+{
+  "name": "reactauction",
+  "version": "0.0.1",
+  "description": "Silent auction via react and firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyockm/reactauction.git"
+  },
+  "keywords": [
+    "react",
+    "firebase"
+  ],
+  "author": "Drew Fyock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fyockm/reactauction/issues"
+  },
+  "homepage": "https://github.com/fyockm/reactauction#readme",
+  "dependencies": {
+    "reactfire": "^0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
+}
